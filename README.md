@@ -74,17 +74,22 @@ Open your browser and navigate to [http://127.0.0.1:5000/](http://127.0.0.1:5000
 
 ## Screenshots
 
-<img width="1440" alt="Screenshot 2024-09-10 at 7 18 53 PM" src="https://github.com/user-attachments/assets/c4b259e5-6ba0-4712-8217-a7d53e028af6">
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/c4b259e5-6ba0-4712-8217-a7d53e028af6" alt="Image 1" style="width: 48%;"/>
+  <img src="https://github.com/user-attachments/assets/9e35d230-8acc-4ea8-b392-faf2dc7625d8" alt="Image 2" style="width: 48%;"/>
+</div>
 
-<img width="1440" alt="Screenshot 2024-09-10 at 7 19 13 PM" src="https://github.com/user-attachments/assets/9e35d230-8acc-4ea8-b392-faf2dc7625d8">
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/eb38965e-9122-4f3e-9d7f-80379659c212" alt="Image 1" style="width: 48%;"/>
+  <img src="https://github.com/user-attachments/assets/ef5c36d7-e7bd-46d2-9d31-4f1c116381b6" alt="Image 2" style="width: 48%;"/>
+</div>
 
-<img width="1440" alt="Screenshot 2024-09-10 at 7 20 21 PM" src="https://github.com/user-attachments/assets/eb38965e-9122-4f3e-9d7f-80379659c212">
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/212a1b9a-eef0-49b3-ae4d-e57e6c53d7ab" alt="Image 1" style="width: 48%;"/>
+  <img src="https://github.com/user-attachments/assets/4555e433-97f6-4dae-b836-1e089df449c9" alt="Image 2" style="width: 48%;"/>
+</div>
 
-<img width="1440" alt="Screenshot 2024-09-13 at 5 11 23 PM" src="https://github.com/user-attachments/assets/ef5c36d7-e7bd-46d2-9d31-4f1c116381b6">
 
-
-
-<img width="1440" alt="Screenshot 2024-09-10 at 7 23 10 PM" src="https://github.com/user-attachments/assets/4555e433-97f6-4dae-b836-1e089df449c9">
 
 ## To-Do
 
