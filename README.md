@@ -84,6 +84,7 @@ Open your browser and navigate to [http://127.0.0.1:5000/](http://127.0.0.1:5000
   <img src="https://github.com/user-attachments/assets/ef5c36d7-e7bd-46d2-9d31-4f1c116381b6" alt="Image 2" style="width: 48%;"/>
 </div>
 
+
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/user-attachments/assets/212a1b9a-eef0-49b3-ae4d-e57e6c53d7ab" alt="Image 1" style="width: 48%;"/>
   <img src="https://github.com/user-attachments/assets/4555e433-97f6-4dae-b836-1e089df449c9" alt="Image 2" style="width: 48%;"/>
