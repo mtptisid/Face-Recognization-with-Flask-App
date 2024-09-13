@@ -19,8 +19,16 @@ sid_face_encoding = face_recognition.face_encodings(sid_image)[0]
 hrithik_image = face_recognition.load_image_file("Hrithik/hrithik.jpg")
 hrithik_face_encoding = face_recognition.face_encodings(hrithik_image)[0]
 
-known_face_encodings = [sid_face_encoding, hrithik_face_encoding]
-known_face_names = ["Siddharamayya", "Hrithik"]
+salman_image = face_recognition.load_image_file("Salman/salman.jpeg")
+salman_face_encoding = face_recognition.face_encodings(salman_image)[0]
+
+sharukh_image = face_recognition.load_image_file("Sharukh/sharukh.jpeg")
+sharukh_face_encoding = face_recognition.face_encodings(sharukh_image)[0]
+
+
+
+known_face_encodings = [sid_face_encoding, hrithik_face_encoding, sharukh_face_encoding, salman_face_encoding]
+known_face_names = ["Siddharamayya", "Hrithik", "Shah Rukh Khan", "Salman Khan"]
 
 face_locations = []
 face_encodings = []

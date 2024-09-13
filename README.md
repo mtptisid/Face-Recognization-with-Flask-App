@@ -31,15 +31,15 @@ pip install flask opencv-python face_recognition numpy
 
 Installation and Setup
 
-	1.	Clone the Repository:
+1.Clone the Repository:
 
 ```bash
-git clone https://github.com/your-username/flask-face-recognition-app.git
-cd flask-face-recognition-app
+git clone https://github.com/mtptisid/Face-Recognization-with-Flask-App.git
+cd Face-Recognization-with-Flask-App
 ```
 
 
-	2.	Install Dependencies:
+2.Install Dependencies:
 Make sure you have Python installed. Run the following command to install the required packages:
 
 ```bash
@@ -47,7 +47,7 @@ pip install -r requirements.txt
 ```
 
 
-3.	Add Face Images:
+3.Add Face Images:
 	•	Create a folder for each person in the project directory.
 	•	Add their images to these folders.
 	
@@ -70,9 +70,15 @@ Open your browser and navigate to [http://127.0.0.1:5000/](http://127.0.0.1:5000
 - You can capture an image by clicking the **Capture Image** button, and it will be displayed in the gallery on the right side of the page.
 - Hover over an image in the gallery to reveal the delete button. Click on it to remove the image.
 
-## Preview
+
 
 ## Screenshots
+
+<img width="1440" alt="Screenshot 2024-09-10 at 7 18 53 PM" src="https://github.com/user-attachments/assets/c4b259e5-6ba0-4712-8217-a7d53e028af6">
+
+<img width="1440" alt="Screenshot 2024-09-10 at 7 19 13 PM" src="https://github.com/user-attachments/assets/9e35d230-8acc-4ea8-b392-faf2dc7625d8">
+
+<img width="1440" alt="Screenshot 2024-09-10 at 7 20 21 PM" src="https://github.com/user-attachments/assets/eb38965e-9122-4f3e-9d7f-80379659c212">
 
 ## To-Do
 
