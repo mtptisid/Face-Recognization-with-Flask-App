@@ -80,6 +80,12 @@ Open your browser and navigate to [http://127.0.0.1:5000/](http://127.0.0.1:5000
 
 <img width="1440" alt="Screenshot 2024-09-10 at 7 20 21 PM" src="https://github.com/user-attachments/assets/eb38965e-9122-4f3e-9d7f-80379659c212">
 
+<img width="1440" alt="Screenshot 2024-09-13 at 5 11 23 PM" src="https://github.com/user-attachments/assets/ef5c36d7-e7bd-46d2-9d31-4f1c116381b6">
+
+
+
+<img width="1440" alt="Screenshot 2024-09-10 at 7 23 10 PM" src="https://github.com/user-attachments/assets/4555e433-97f6-4dae-b836-1e089df449c9">
+
 ## To-Do
 
 - Add more advanced face recognition features (e.g., emotion detection).
