@@ -38,6 +38,15 @@ git clone https://github.com/mtptisid/Face-Recognization-with-Flask-App.git
 cd Face-Recognization-with-Flask-App
 ```
 
+**Create a virtual environment:**
+
+```bash
+
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+
+```
+
 
 2.Install Dependencies:
 Make sure you have Python installed. Run the following command to install the required packages:
