@@ -104,4 +104,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This is individual project created by Siddharamayya M
